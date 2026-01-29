@@ -1,0 +1,12 @@
+[submodule "financial-agent-backend"]
+	path = financial-agent-backend
+	url = https://github.com/Xyber-Labs/financial-agent-backend
+	branch = main
+[submodule "teefi-evm-contracts"]
+	path = teefi-evm-contracts
+	url = https://github.com/Xyber-Labs/teefi-evm-contracts
+	branch = main
+[submodule "financial-agent"]
+	path = financial-agent
+	url = https://github.com/Xyber-Labs/financial-agent
+	branch = main
